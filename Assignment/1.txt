@@ -1,0 +1,12 @@
+Emmet ----> toolkit that allows to write shortcut which changes into full code.
+Library VS Framework---->
+->Library is a set of reusable code that perform specific functionalities
+->Framework is much more comprehensive that includes set of rules,patterns and dictate how code should be written and organized.
+->Your code calls Library whereas Framework calls your code.
+CDN -----> Content delivery network.
+->The main purpose of a CDN is to deliver content, such as images, videos, scripts, and other static files, to users faster and more reliably.
+->With a CDN, the file is cached on multiple servers around the world, so the user can download it from a server that is closer to their location, resulting in faster loading times and better user experience.
+Crossorigin---->Basically handle CORS request. used to share resources from one domain to another domain. checks if it is safe or not.
+React VS ReactDOM----> The react package holds the react source for components, state, props and all the code that is react.
+The react-dom package as the name implies is the glue between React and the DOM.
+Split because of React Native, React is used in mobile dev also whereas ReactDOM is used only in web.
