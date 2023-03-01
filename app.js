@@ -1,7 +1,8 @@
-const heading = React.createElement("h1",{key:1,style : {color:"red"}},"Namaste Everyone!!!")
-const heading2 = React.createElement("h2",{},"Hello World");
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const container = React.createElement("div",{},[heading,heading2]);
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const heading = React.createElement('h1',null,'Namaste React');
 
-root.render(container);
+const root = ReactDOM.createRoot(document.getElementById('root'));
+
+root.render(heading);
