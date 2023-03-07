@@ -1,0 +1,2 @@
+JSX---->JSX stands for Javascript XML.
+JSX is a html like syntax that we can write inside Javascript for making React element without using React.createElement.
